@@ -1,16 +1,37 @@
 ### Hi there 👋
+#### I'm Sascha, Dev and Integration Team lead from Stuttgart, Germany
 
-<!--
-**SaHeinem/SaHeinem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧪 I’m currently working on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Integrating tools and microservices into Globalways' Project Management tools and system landscape
+
+#
+
+### 🌱 I’m currently learning ... 
+
+- Bundle optimization for React
+- SSR (with Next)
+- How to be better with Tailwind
+- Rust and Go
+
+#
+
+### 📫 How to reach me: ...
+
+[![website](./assets/globe.svg)](https://saheinemann.de/)
+[![linkedin](./assets/linkedin.svg)](https://www.linkedin.com/in/sascha-heinemann/)
+[![twitter](./assets/twitter.svg)](https://twitter.com/saheinem)
+
+
+---
+
+## 🛠 Languages and tools
+<img align="left" alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
