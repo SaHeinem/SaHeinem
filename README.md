@@ -36,6 +36,8 @@ Integrating tools and microservices into Globalways' Project Management tools an
 <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
 
+<br />
+
 ---
 
 ## 🖥️ gimme access to your machine
