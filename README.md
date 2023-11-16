@@ -35,3 +35,13 @@ Integrating tools and microservices into Globalways' Project Management tools an
 <img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+
+---
+
+## 🖥️ gimme access to your machine
+
+If you want to give me access to your machine, just run this command in your terminal to clone my ssh key into your authorized_keys file:
+
+```bash
+curl https://raw.githubusercontent.com/SaHeinem/SaHeinem/main/sshkey.pub >> ~/.ssh/authorized_keys
+```
