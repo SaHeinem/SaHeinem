@@ -1,22 +1,7 @@
 ### Hi there 👋
-#### I'm Sascha, Dev and Integration Team lead from Stuttgart, Germany
+#### I'm Sascha, Dev and Tech guy from South Germany
 
 ---
-
-### 🧪 I’m currently working on ...
-
-Integrating tools and microservices into Globalways' Project Management tools and system landscape
-
-#
-
-### 🌱 I’m currently learning ... 
-
-- Bundle optimization for React
-- SSR (with Next)
-- How to be better with Tailwind
-- Rust and Go
-
-#
 
 ### 📫 How to reach me: ...
 
